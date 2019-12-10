@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Debby';
+    src: url('../fonts/Debby.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MullerRegular';
+    src: url('../fonts/Muller-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
